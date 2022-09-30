@@ -1,0 +1,11 @@
+Model Information:
+* title:	Dragon Plate
+* source:	https://sketchfab.com/3d-models/dragon-plate-02ea1e8b0a724582b4f4c33d81d5bf80
+* author:	mattruszala (https://sketchfab.com/mattruszala)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Dragon Plate" (https://sketchfab.com/3d-models/dragon-plate-02ea1e8b0a724582b4f4c33d81d5bf80) by mattruszala (https://sketchfab.com/mattruszala) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
